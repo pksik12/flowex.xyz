@@ -19,7 +19,3 @@ Flowex connects crypto projects with active users, ensuring quality traffic and 
 - `style.css` — site styles
 - `script.js` — interactivity (future)
 - `assets/` — images and logos
-
-## 🚀 GitHub Pages
-
-You can publish this site online using GitHub Pages.
